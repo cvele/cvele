@@ -5,8 +5,7 @@ I'm a Solutions Architect at [symphony.is](https://symphony.is), based in Belgra
 ### What I Do
 - **Current Role:** Solutions Architect at symphony.is: Crafting scalable and reliable tech solutions
 
-- **Past Role:**
-  - Lead Platform Architect and Head of Partner Integrations at Arbor Education
+- **Past Role:** Lead Platform Architect and Head of Partner Integrations at Arbor Education
     
 Feel free to explore my repositories or visit my [website](https://blog.cvetic.in.rs) and reach out for any questions or collaborations!
 
