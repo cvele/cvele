@@ -10,4 +10,4 @@ I'm a Solutions Architect at [symphony.is](https://symphony.is), based in Belgra
 Feel free to explore my repositories or visit my [website](https://blog.cvetic.in.rs) and reach out for any questions or collaborations!
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=cvele&rank=SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=cvele&rank=SECRET,SSS,SS,S,AAA)](https://github.com/ryo-ma/github-profile-trophy)
