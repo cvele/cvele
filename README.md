@@ -3,9 +3,10 @@
 I'm a Solutions Architect at [symphony.is](https://symphony.is), based in Belgrade, Serbia. With over two decades in the software industry, I specialize in cloud solutions, backend architecture, and system integrations.
 
 ### What I Do
-- **Current Role:** Application Architect at Pollard Digital Solutions
+**Current Role:** 
+- Application Architect at Pollard Digital Solutions
 
-- **Past Roles:**
+**Past Roles:**
 - Solutions Architect at symphony.is: Crafting scalable and reliable tech solutions
 - Lead Platform Architect and Head of Partner Integrations at Arbor Education
     
